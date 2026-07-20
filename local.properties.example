@@ -1,0 +1,6 @@
+# Rinomina questo file in "local.properties" (o aggiungi queste righe a quello esistente).
+# Android Studio aggiunge da solo la riga sdk.dir. Se compili a mano, aggiungila tu:
+# sdk.dir=/percorso/al/Android/sdk
+
+# La tua chiave Anthropic (NON committarla):
+ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxx
